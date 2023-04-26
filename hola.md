@@ -63,6 +63,10 @@ Exportamos el código, tanto en JAVA como en Python:
 
 
 
+## 5
+Podemos utilizar el código generado, hemos enido que modificar algunas cosas, como poner nombre al paquete, importar el scanner, borrar cosas y añadir otras que hacian falta, por ejemplo añadir un break para que el bucle parara.
+
+
 
 
  
