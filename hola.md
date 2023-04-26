@@ -4,7 +4,7 @@ Primero creamos la clase Calculadora:
 ![image](https://user-images.githubusercontent.com/114908591/234491757-137510f4-6add-44e3-b7a3-9c7d0397c613.png)
  
  Las operaciones que hemos puesto han sido estas:
- ![image](https://user-images.githubusercontent.com/114908591/234491870-878375c6-e01d-4940-971c-6d2a4111a371.png)
+![image](https://user-images.githubusercontent.com/114908591/234491870-878375c6-e01d-4940-971c-6d2a4111a371.png)
 
 Y hemos documentado así:
 ![image](https://user-images.githubusercontent.com/114908591/234491932-ed41104f-c2d6-4128-a084-8991e91d65f8.png)
