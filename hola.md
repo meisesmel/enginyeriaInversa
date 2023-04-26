@@ -3,7 +3,7 @@
 Primero creamos la clase Calculadora:
 
 
-![image](https://user-images.githubusercontent.com/114908591/234491757-137510f4-6add-44e3-b7a3-9c7d0397c613.png)
+![image](https://user-images.githubusercontent.com/114908591/234507567-c59c8bba-cf98-4323-acd4-59496a1c1770.png)
  
  Las operaciones que hemos puesto han sido estas:
  
