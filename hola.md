@@ -59,6 +59,7 @@ Exportamos el código, tanto en JAVA como en Python:
 ![image](https://user-images.githubusercontent.com/114908591/234512575-adb9cb74-cf87-432f-a969-a8c13d0bb96a.png)
 
 
+![image](https://user-images.githubusercontent.com/114908591/234512673-78e76c00-3acf-45ba-af0a-addeb933fdde.png)
 
 
 
