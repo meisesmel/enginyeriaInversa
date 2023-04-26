@@ -38,6 +38,15 @@ E introducimos el código del programa:
 ![image](https://user-images.githubusercontent.com/114908591/234492163-1ae27073-c8ba-409d-8203-1b862775cd24.png)
 
 
+## 4 
+Exportamos el código, tanto en JAVA como en Python:
+
+
+![image](https://user-images.githubusercontent.com/114908591/234512094-bc1ecb68-c7f7-412a-9065-de99a68ed4c4.png)
+
+
+
+
 
 
 
