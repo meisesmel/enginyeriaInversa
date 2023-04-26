@@ -1,5 +1,5 @@
-#Activitats
-##1
+# Activitats
+## 1
 Primero creamos la clase Calculadora:
 ![image](https://user-images.githubusercontent.com/114908591/234491757-137510f4-6add-44e3-b7a3-9c7d0397c613.png)
  
