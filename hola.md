@@ -45,6 +45,12 @@ Exportamos el código, tanto en JAVA como en Python:
 ![image](https://user-images.githubusercontent.com/114908591/234512094-bc1ecb68-c7f7-412a-9065-de99a68ed4c4.png)
 
 
+![image](https://user-images.githubusercontent.com/114908591/234512205-cd25d53e-2926-476a-81a0-97a4ac2d2753.png)
+
+
+![image](https://user-images.githubusercontent.com/114908591/234512263-14aeccea-3b4e-4974-a33e-ee32870bbc30.png)
+
+
 
 
 
