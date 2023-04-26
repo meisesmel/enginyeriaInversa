@@ -41,6 +41,7 @@ E introducimos el código del programa:
 ## 4 
 Exportamos el código, tanto en JAVA como en Python:
 
+### JAVA
 
 ![image](https://user-images.githubusercontent.com/114908591/234512094-bc1ecb68-c7f7-412a-9065-de99a68ed4c4.png)
 
@@ -50,8 +51,12 @@ Exportamos el código, tanto en JAVA como en Python:
 
 ![image](https://user-images.githubusercontent.com/114908591/234512263-14aeccea-3b4e-4974-a33e-ee32870bbc30.png)
 
+### Python
+
+![image](https://user-images.githubusercontent.com/114908591/234512384-03c5fb6f-066b-4c6c-aa7d-068129834b28.png)
 
 
+![image](https://user-images.githubusercontent.com/114908591/234512575-adb9cb74-cf87-432f-a969-a8c13d0bb96a.png)
 
 
 
