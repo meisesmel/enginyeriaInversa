@@ -76,10 +76,15 @@ Podemos utilizar el código generado, hemos enido que modificar algunas cosas, c
 
 ### Clase Main:
 
-
 ![image](https://user-images.githubusercontent.com/114908591/234515455-677e635b-7076-4f65-8fa3-488f535fe849.png)
 
 
+### Ejecución del programa:
+
+![image](https://user-images.githubusercontent.com/114908591/234515681-2afcb6d4-b4f3-49a3-9367-05c75f513f76.png)
+
+
+![image](https://user-images.githubusercontent.com/114908591/234515719-16825307-6a2c-497b-b223-1156ce0dc4eb.png)
 
 
  
