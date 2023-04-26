@@ -10,8 +10,8 @@ Primero creamos la clase Calculadora:
  
 ![image](https://user-images.githubusercontent.com/114908591/234491870-878375c6-e01d-4940-971c-6d2a4111a371.png)
 
+## 2
 Y hemos documentado así:
-
 
 ![image](https://user-images.githubusercontent.com/114908591/234491932-ed41104f-c2d6-4128-a084-8991e91d65f8.png)
 
@@ -26,7 +26,8 @@ Y hemos documentado así:
 
 
 
-Ahora exportamos el código Main:
+## 3
+Ahora importamos el código Main:
 
 
 ![image](https://user-images.githubusercontent.com/114908591/234492093-b85ba2b5-2f76-4a16-b586-fa59e1e084c8.png)
