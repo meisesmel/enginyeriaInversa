@@ -19,12 +19,10 @@ Y hemos documentado así: (en las capturas se puede apreciar como el código est
 ![image](https://user-images.githubusercontent.com/114908591/234508876-f554232b-e89d-43b0-ab0f-96639f06395f.png)
 
 
+![image](https://user-images.githubusercontent.com/114908591/234509090-840426cb-4926-4ae7-99c9-071383364efe.png)
 
 
-
-
-![image](https://user-images.githubusercontent.com/114908591/234492037-d60703e3-417d-4b2c-ba57-72791f105087.png)
-
+![image](https://user-images.githubusercontent.com/114908591/234509173-992a0e05-3d37-46f3-8509-2237e3458048.png)
 
 
 ## 3
@@ -38,6 +36,8 @@ E introducimos el código del programa:
 
 
 ![image](https://user-images.githubusercontent.com/114908591/234492163-1ae27073-c8ba-409d-8203-1b862775cd24.png)
+
+
 
 
 
