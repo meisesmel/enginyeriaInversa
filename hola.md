@@ -87,4 +87,10 @@ Podemos utilizar el código generado, hemos enido que modificar algunas cosas, c
 ![image](https://user-images.githubusercontent.com/114908591/234515719-16825307-6a2c-497b-b223-1156ce0dc4eb.png)
 
 
- 
+![image](https://user-images.githubusercontent.com/114908591/234515774-5c3659dd-a29b-464c-88c3-26a92bf3e457.png)
+
+
+![image](https://user-images.githubusercontent.com/114908591/234515808-54f0e289-3d60-4f25-85eb-fc2022191c27.png)
+
+
+
