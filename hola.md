@@ -67,6 +67,19 @@ Exportamos el código, tanto en JAVA como en Python:
 Podemos utilizar el código generado, hemos enido que modificar algunas cosas, como poner nombre al paquete, importar el scanner, borrar cosas y añadir otras que hacian falta, por ejemplo añadir un break para que el bucle parara.
 
 
+### Clase Calculadora:
+
+![image](https://user-images.githubusercontent.com/114908591/234515223-a950a301-a56e-4fed-893d-c9256cadc01b.png)
+
+
+![image](https://user-images.githubusercontent.com/114908591/234515331-c46a53f1-75dc-466f-8040-95f6f6802d7a.png)
+
+### Clase Main:
+
+
+![image](https://user-images.githubusercontent.com/114908591/234515455-677e635b-7076-4f65-8fa3-488f535fe849.png)
+
+
 
 
  
