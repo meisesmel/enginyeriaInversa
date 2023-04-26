@@ -11,15 +11,16 @@ Primero creamos la clase Calculadora:
 ![image](https://user-images.githubusercontent.com/114908591/234491870-878375c6-e01d-4940-971c-6d2a4111a371.png)
 
 ## 2
-Y hemos documentado así:
+Y hemos documentado así: (en las capturas se puede apreciar como el código está en comentario, lo hemos cambiado a código_fuente)
 
-![image](https://user-images.githubusercontent.com/114908591/234491932-ed41104f-c2d6-4128-a084-8991e91d65f8.png)
-
-
-![image](https://user-images.githubusercontent.com/114908591/234491983-bed10aec-023a-4f9d-a93f-1d2a21886ffd.png)
+![image](https://user-images.githubusercontent.com/114908591/234508082-b8814dbb-329e-4331-9899-ab0793466bb2.png)
 
 
-![image](https://user-images.githubusercontent.com/114908591/234492006-79af3bf1-cde5-4508-a64f-2f287b76db91.png)
+![image](https://user-images.githubusercontent.com/114908591/234508876-f554232b-e89d-43b0-ab0f-96639f06395f.png)
+
+
+
+
 
 
 ![image](https://user-images.githubusercontent.com/114908591/234492037-d60703e3-417d-4b2c-ba57-72791f105087.png)
